@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD92cCd7D5D8af24cd7f6C81c6A2c233D78207878",
+  "SCAN_LINK": "https://etherscan.io/address/0xd92ccd7d5d8af24cd7f6c81c6a2c233d78207878",
+  "NETWORK": {
+    "NAME": "Main",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Mr. Bean Yacht Club",
+  "SYMBOL": "MBYC",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mr-bean-yacht-club",
+  "SHOW_BACKGROUND": true
+}
