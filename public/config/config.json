@@ -9,9 +9,9 @@
   "NFT_NAME": "Mr. Bean Yacht Club",
   "SYMBOL": "MBYC",
   "MAX_SUPPLY": 8888,
-  "WEI_COST": 1000000000000000,
-  "DISPLAY_COST": 0.001,
-  "GAS_LIMIT": 150000,
+  "WEI_COST": 800000000000000,
+  "DISPLAY_COST": 0.0008,
+  "GAS_LIMIT": 210000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mr-bean-yacht-club",
   "SHOW_BACKGROUND": true
